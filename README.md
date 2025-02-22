@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is the systematic application of engineering principle, methods, and tools to the development of high-quality software systems.
 It is important in the technology industries as it enable the creation of software application and systems that powers various aspect of our modern life including communications, transportation, entertainment, health care.
 
@@ -40,6 +41,7 @@ Agile approach: Unlike the waterfall approach, this approach is an incremental a
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software Developer: 
+
 Software developer is responsible for the actual code developments and implementing software solutions. Software developer roles include:
 -	Writing clean secure code
 -	Follow best code writing standard
@@ -48,13 +50,16 @@ Software developer is responsible for the actual code developments and implement
 -	Communicate and collaborate with designers, Quality assurance officer
 
 Quality Assurance Engineer:
+
 The role of quality assurance engineer is to ensure that software meet quality standard and user requirements by benchmarking the software against predetermined criteria and standards. Quality assurance carry out various test, ranging from unit test, integration test, system test, UI/UX test, to user acceptance test to assure software quality. The role of quality assurance include:
+
 -	Design and execute (manual and automated) test cases
 -	Identify and report software issues
 -	Work with software developer to resolve issue
 -	Assure that software meets both functional and non-functional requirements
 
 Project Manager:
+
 Project manager is responsible for the overall success of the software development project by overseeing and managing project from planning, design, implementation, testing to maintenance, and delivery of the project on time, to budget, and to user requirements. Project manager’s responsibilities are:
 -	Setting up the project goals, objectives, constraints, scope, and deliverables
 -	Manage the resources (i.e. man, material, machine) of the project
@@ -71,6 +76,7 @@ Version Control Systems (VCS): This is the application software used by develope
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 The common challenges face by software engineers are:
+
 -	Time constraints: The requirement to deliver project on time according to schedule or earlier to agreed time
 -	Continuous changes in requirements
 -	Technical debt either from shortcuts or suboptimal solutions can impede future developments efforts and lead to increase cost
@@ -96,6 +102,7 @@ Prompt engineering: This is the process of construction statements or questions 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague prompt: What is accounting?
+
 Improve prompt: Explain financial accounting and tell me its uses in business
 
 
